@@ -1,16 +1,5 @@
 # GraphsAndMobility
-<style type="text/css">
-body h1 {
-	text-align: center;
-	font-family: Georgia, "Times New Roman", Times, serif;
-}
-p {
-	font-family: Georgia, "Times New Roman", Times, serif;
-}
-li {
-	font-family: Georgia, "Times New Roman", Times, serif;
-}
-</style>
+
 <title>Time-Varying Road Network</title>
 
 <h1>Milan Time-Varying Road Network Data and Manipulation Tool</h1>
